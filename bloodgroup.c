@@ -1,7 +1,10 @@
 #include <stdio.h>
 #include <string.h>
 void main()
+<<<<<<< HEAD
 { char Name[40], G[12], answer[15];
+
+
   int i;
   do
   {
